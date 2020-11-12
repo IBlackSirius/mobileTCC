@@ -1,0 +1,531 @@
+[
+    {
+        "id": "c36b908e-2540-4b9f-8c42-09cdabac5c6a",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:31:15.412Z",
+        "updated_at": "2020-10-23T00:31:15.412Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "4270cf69-cc9c-4d46-a7a5-18aad98458de",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:22.294Z",
+        "updated_at": "2020-10-23T00:50:22.294Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "e0caa0e1-23cf-4c18-acf5-8bb4cf25f2cf",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:22.952Z",
+        "updated_at": "2020-10-23T00:50:22.952Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "9448640e-f1f8-4b9c-af75-37c05b3cd0ac",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:23.149Z",
+        "updated_at": "2020-10-23T00:50:23.149Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "fee82508-10a6-41be-8a0d-94b7dc93e582",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:23.340Z",
+        "updated_at": "2020-10-23T00:50:23.340Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "3c7f8e76-2a49-4e16-8c40-2a9fdb27a491",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:23.508Z",
+        "updated_at": "2020-10-23T00:50:23.508Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "84bb1abb-0e62-4b6c-a23f-212a8f673077",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:23.690Z",
+        "updated_at": "2020-10-23T00:50:23.690Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "6fe632c6-0a97-49d6-9c32-960a3309c520",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:23.893Z",
+        "updated_at": "2020-10-23T00:50:23.893Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "1cf4997a-5515-4f34-8b71-72bdc37ecbb0",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.027Z",
+        "updated_at": "2020-10-23T00:50:24.027Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "68aa2dc2-4343-483d-bfc6-a174ee3ecbb0",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.195Z",
+        "updated_at": "2020-10-23T00:50:24.195Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "0ba27cc2-7ba6-42d6-97e1-757e77d4960a",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.386Z",
+        "updated_at": "2020-10-23T00:50:24.386Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "76769b49-5894-4001-a0f9-d2fbdf90adae",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.597Z",
+        "updated_at": "2020-10-23T00:50:24.597Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "4099e411-ef51-492d-bf17-2f38740bb9fb",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.770Z",
+        "updated_at": "2020-10-23T00:50:24.770Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    },
+    {
+        "id": "56c29363-0ddc-42ea-8b25-dd25b34f6fb8",
+        "mining_company_id": "c645a572-52b4-4500-a584-1165eb474fa8",
+        "mining_field_id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+        "status": "Ativa",
+        "created_at": "2020-10-23T00:50:24.956Z",
+        "updated_at": "2020-10-23T00:50:24.956Z",
+        "mining_company": {
+            "id": "c645a572-52b4-4500-a584-1165eb474fa8",
+            "name": "Compania de Mineração 1",
+            "address": "Rua X",
+            "cnpj": "45.034.419/0001-00",
+            "email": "miningcompany_1@live.com",
+            "created_at": "2020-10-23T00:30:32.516Z",
+            "updated_at": "2020-10-23T00:30:32.516Z"
+        },
+        "mining_field": {
+            "id": "c921afb4-63f0-4ca4-8571-47a5aa4c9920",
+            "plus_code": "HQ2H+CX Cajuru, Curitiba - PR",
+            "created_at": "2020-10-23T00:30:23.575Z",
+            "updated_at": "2020-10-23T00:30:23.575Z"
+        }
+    }
+]
